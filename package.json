@@ -7,9 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatibow/personal-website-api.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://github.com/tatibow/personal-website-api",
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
