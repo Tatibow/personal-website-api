@@ -16,4 +16,4 @@ const corsOptions ={
    optionSuccessStatus:200,
 }
 
-app.use(cors(corsOptions)) // Use this after the variable declaration
+server.use(cors(corsOptions)) // Use this after the variable declaration
